@@ -1,1 +1,1 @@
-# Quantum-Computing-Summer-2024
+# Quantum-Computing-Summer 2024
